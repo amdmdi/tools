@@ -1,0 +1,18 @@
+# Random collection of scripts, config and tools
+
+
+## eclipste-formatter
+Eclipse formatter xml settings
+
+Changes from original settings are:
+
+* Eclipse (eclipse-formatter.xml)
+** Indent using spaces
+* Google (eclipse-java-google-style.xml)
+** Code line width = 120
+** Use Java version = 1.8 (instead of 1.7)
+
+### Credits
+* https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml[GoogleStyle (from google/styleguide )]
+* https://raw.githubusercontent.com/redhat-developer/vscode-java/master/formatters/eclipse-formatter.xml[Eclipse (redhat-developer/vscode-java)]
+
