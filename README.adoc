@@ -1,4 +1,4 @@
-# Random collection of scripts, config and tools
+# Random collection of scripts, tools and config files
 
 
 ## eclipste-formatter
